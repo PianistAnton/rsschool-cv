@@ -1,1 +1,1 @@
-# rsschool-cv
+https://PianistAnton.github.io/rsschool-cv/cv
