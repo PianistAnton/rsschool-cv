@@ -17,3 +17,7 @@ $a = 5;
 $b = 3; 
 $c = $a + $b; 
 ```
+## Experience 
+### Do not have any experience in IT 
+## Education 
+* ***University:*** National Technical University – «Kharkiv Polytechnic Institute»
