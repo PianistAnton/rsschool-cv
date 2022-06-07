@@ -21,3 +21,7 @@ $c = $a + $b;
 ### Do not have any experience in IT 
 ## Education 
 * ***University:*** National Technical University – «Kharkiv Polytechnic Institute»
+## Languages:
+* Russian: native 
+* Ukrainian: native
+* English: B2 (Upper-intermediate)
